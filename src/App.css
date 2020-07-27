@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.rcw-message .rcw-response .rcw-message-text {
+  max-width: unset;
+}
+
+.rcw-client .rcw-message-text {
+  max-width: unset;
+}
