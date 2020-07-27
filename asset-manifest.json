@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iss_chat/static/css/main.1b51ef2e.chunk.css",
+    "main.js": "/iss_chat/static/js/main.69cb3bff.chunk.js",
+    "main.js.map": "/iss_chat/static/js/main.69cb3bff.chunk.js.map",
+    "runtime-main.js": "/iss_chat/static/js/runtime-main.48addf9b.js",
+    "runtime-main.js.map": "/iss_chat/static/js/runtime-main.48addf9b.js.map",
+    "static/css/2.29c4d543.chunk.css": "/iss_chat/static/css/2.29c4d543.chunk.css",
+    "static/js/2.0263082c.chunk.js": "/iss_chat/static/js/2.0263082c.chunk.js",
+    "static/js/2.0263082c.chunk.js.map": "/iss_chat/static/js/2.0263082c.chunk.js.map",
+    "index.html": "/iss_chat/index.html",
+    "precache-manifest.1e35a75cd7fbee5a4c7ccc4d04fb11eb.js": "/iss_chat/precache-manifest.1e35a75cd7fbee5a4c7ccc4d04fb11eb.js",
+    "service-worker.js": "/iss_chat/service-worker.js",
+    "static/css/2.29c4d543.chunk.css.map": "/iss_chat/static/css/2.29c4d543.chunk.css.map",
+    "static/css/main.1b51ef2e.chunk.css.map": "/iss_chat/static/css/main.1b51ef2e.chunk.css.map",
+    "static/js/2.0263082c.chunk.js.LICENSE.txt": "/iss_chat/static/js/2.0263082c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48addf9b.js",
+    "static/css/2.29c4d543.chunk.css",
+    "static/js/2.0263082c.chunk.js",
+    "static/css/main.1b51ef2e.chunk.css",
+    "static/js/main.69cb3bff.chunk.js"
+  ]
+}
